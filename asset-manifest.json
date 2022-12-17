@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/amir-website/static/css/main.dd244b83.css",
+    "main.js": "/amir-website/static/js/main.2b18be17.js",
+    "static/js/787.ff35564e.chunk.js": "/amir-website/static/js/787.ff35564e.chunk.js",
+    "static/media/AMIR.png": "/amir-website/static/media/AMIR.f3a3d5edab3858c17d6e.png",
+    "static/media/bg.jpg": "/amir-website/static/media/bg.c5d3ae445659f6969a41.jpg",
+    "static/media/AMIR MABOOD-CV.pdf": "/amir-website/static/media/AMIR MABOOD-CV.16b98fe5c6740b7bec0b.pdf",
+    "index.html": "/amir-website/index.html",
+    "main.dd244b83.css.map": "/amir-website/static/css/main.dd244b83.css.map",
+    "main.2b18be17.js.map": "/amir-website/static/js/main.2b18be17.js.map",
+    "787.ff35564e.chunk.js.map": "/amir-website/static/js/787.ff35564e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd244b83.css",
+    "static/js/main.2b18be17.js"
+  ]
+}
